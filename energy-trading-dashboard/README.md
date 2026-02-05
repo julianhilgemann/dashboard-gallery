@@ -61,7 +61,7 @@ Follows the "F-Pattern" scanning route:
 
 ## 4. Tech Stack (Example)
 
-*   **Frontend**: React.js / TypeScript
-*   **Visualization**: D3.js (Custom charts), Leaflet (Map)
-*   **Styling**: Tailwind CSS (Glassmorphism effects)
+*   **Tooling**: Power BI (End-to-End Implementation)
+*   **Design & Prototyping**: Figma (UI Wireframes & High-Fidelity Mockups)
+*   **Data Modeling**: Power Query & DAX (Advanced Calculations)
 *   **Data Source**: Mocked EEX Market Data & CRM aggregation
