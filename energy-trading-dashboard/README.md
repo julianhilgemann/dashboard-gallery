@@ -1,3 +1,5 @@
+[← Back to Gallery](https://github.com/julianhilgemann/dashboard-gallery?tab=readme-ov-file)
+
 # B2B Energy Partner Management Dashboard
 
 ![B2B Energy Partner Management Dashboard](assets/Dashboard%20Frame.png)

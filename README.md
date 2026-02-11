@@ -20,8 +20,8 @@ This repository serves as a curated gallery of enterprise-grade dashboard design
 
 | Preview | Project | Tech Stack | Key Features |
 | :--- | :--- | :--- | :--- |
-| <a href="./energy-trading-dashboard"><img src="energy-trading-dashboard/assets/Dashboard%20Frame.png" width="800px"></a> | **[B2B Energy Partner Management Dashboard](./energy-trading-dashboard)**<br><br>A high-performance "Cockpit" for Key Account Managers in the energy wholesale sector. Visualizes real-time market correlation, partner revenue streams, and regional demand clusters. | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-2F2F2F?style=flat) | • Partner Revenue Ranking<br>• Market Price/Volume Correlation<br>• Geospatial Demand Map<br>• Dark Mode UI |
-| *More Coming Soon* | **Supply Chain Optimizer** (Planned)<br><br>End-to-end visibility of logistics and inventory management. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) | • Inventory Forecasting<br>• Route Optimization |
+| <a href="./energy-trading-dashboard"><img src="energy-trading-dashboard/assets/Dashboard%20Frame.png" width="800px"></a> | **[B2B Energy Partner Management Dashboard](./energy-trading-dashboard)**<br>Strategic "Cockpit" for Key Account Managers in the energy wholesale sector. | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-2F2F2F?style=flat) | • Partner Revenue Ranking<br>• Market Price/Volume Correlation<br>• Geospatial Demand Map<br>• Dark Mode UI |
+| *More Coming Soon* | **Supply Chain Optimizer** (Planned)<br>End-to-end visibility of logistics and inventory management. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) | • Inventory Forecasting<br>• Route Optimization |
 
 ---
 
@@ -40,5 +40,5 @@ My approach blends technical expertise with design thinking to create tools peop
 
 Interested in collaborating or discussing data visualization strategies?
 
-*   **LinkedIn**: [linkedin.com/in/yourprofile](#)
-*   **Email**: [contact@example.com](mailto:contact@example.com)
+*   **LinkedIn**: [linkedin.com/in/julian-hilgemann/](https://www.linkedin.com/in/julian-hilgemann/)
+*   **Email**: [hilgemann.julian@gmail.com](mailto:hilgemann.julian@gmail.com)
